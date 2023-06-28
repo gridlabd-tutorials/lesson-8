@@ -10,13 +10,13 @@ Output data can be plotted using the `plot` subcommand. The `plot` is run when t
 
 ## Tasks
 
-1. Setup the building schedule.
-2. Import the `tape` module.
-3. Add the commercial building to `load_1`.
-4. Add the data recorder to the building.
-5. Get and load the weather forecast.
-6. Set the simulation clock.
-7. Plot the load when the simulation exits successfully.
+1. Setup the building schedule (see [`main.glm@6`](main.glm#L6-L14)).
+2. Import the `tape` module (see [`main.glm@16`](main.glm#L17-L20)).
+3. Add the commercial building to `load_1` (see [`main.glm@22`](main.glm#L23-L52)).
+4. Add the data recorder to the building (see [`main.glm@45`](main.glm#L46-L51)).
+5. Get and load the weather forecast (see [`main.glm@54`](main.glm#L55-L56)).
+6. Set the simulation clock (see [`main.glm@58`](main.glm#L59-L64)).
+7. Plot the load when the simulation exits successfully (see [`main.glm@66`](main.glm#L67)).
 
 # Exercices
 
