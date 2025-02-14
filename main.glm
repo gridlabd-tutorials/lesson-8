@@ -52,7 +52,7 @@ object building
 }
 
 // Task 5 - Use weather forecast
-#python -m noaa_forecast -p=37.5,-122.4 -c=forecast.csv -n=forecast -g=forecast.glm
+#python -m gridlabd.noaa_forecast -p=37.5,-122.4 -c=forecast.csv -n=forecast -g=forecast.glm
 #include "forecast.glm"
 
 // Task 6 - Setup clock
